@@ -15,10 +15,6 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-<a href="https://github.com/lea-dtech/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lea-dtech&hide=stars,issues&count_private=true&show_icons=true"/>
-</a>
-<a href="https://github.com/lea-dtech/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lea-dtech&layout=compact" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lea-dtech&hide=stars,issues&count_private=true&show_icons=true"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lea-dtech&layout=compact" />
 

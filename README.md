@@ -12,7 +12,7 @@
   </p>    
 </p>
 <br />
-<img align="right" height=300 width=450 alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" height=300 width=330 alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 [![Vikram's github stats](https://github-readme-stats.vercel.app/api?username=lea-dtech&show_icons=true)](https://github.com/lea-dtech)
 

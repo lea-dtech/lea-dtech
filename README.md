@@ -15,3 +15,4 @@
 </p>
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=lea-dtech&show_icons=true&theme=radical)

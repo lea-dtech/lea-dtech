@@ -15,6 +15,6 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lea-dtech&hide=stars,issues&count_private=true&show_icons=true"/>
+[![Vikram's github stats](https://github-readme-stats.vercel.app/api?username=lea-dtech&show_icons=true)](https://github.com/lea-dtech)
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lea-dtech&layout=compact" />
 

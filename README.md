@@ -1,4 +1,4 @@
-## Hello World! <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px" height="30px"></h2>
 
 <p align="center">
   <i><b>Let's connect and chat!</b></i>

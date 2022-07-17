@@ -16,3 +16,4 @@
 
 [![Vikram's github stats](https://github-readme-stats.vercel.app/api?username=lea-dtech&show_icons=true)](https://github.com/lea-dtech)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lea-dtech&" alt="lea-dtech" /></p>

@@ -4,8 +4,8 @@
   <i><b>Let's connect and chat!</b></i>
 
   <p align="center">
-    <a href="https://twitter.com/bindashvikram" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/vikram-kumar1/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>&nbsp;
+    <a href="https://twitter.com/bindashvikram" alt="Twitter" target="_blank"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/vikram-kumar1/" alt="Linkedin" target="_blank"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>&nbsp;
     <a href="https://www.instagram.com/bindash_vikram" alt="Instagram"><img src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-logo-PNG.png" height="30" width="30"></a>&nbsp;
     <a href="mailto:vikramkumar8655@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
     <a href="https://www.youtube.com/channel/UCMyhDUmlHrt9ZirR7WvJKhA" alt="YouTube"><img src="https://pnggrid.com/wp-content/uploads/2021/05/YouTube-logo-PNG-HD-1024x928.png" height="30" width="30"></a>
